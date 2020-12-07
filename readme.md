@@ -17,3 +17,6 @@ This web application is built using React JS and supported by Google's Firebase 
 2. In the terminal, go to the project path and run the command `npm install`.
 3. After all the dependencies are installed, run the command `npm run dev-server`. This will start the server.
 4. Now go the web-browser and run the web-app at `localhost:8080`.
+
+## How the web-app works
+<img src ="https://user-images.githubusercontent.com/72819553/101399257-3c9d0b00-38f5-11eb-9813-4e872f021fe1.gif" width="550" height="300">
